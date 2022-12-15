@@ -1,0 +1,12 @@
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\bin\Debug\net6.0\Libreria.dll
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\bin\Debug\net6.0\Libreria.pdb
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\Libreria.dll
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\Libreria.pdb
+C:\Users\JOD\source\repos\eva2DWSiniciales\Libreria\obj\Debug\net6.0\ref\Libreria.dll
